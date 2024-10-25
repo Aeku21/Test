@@ -1,0 +1,1 @@
+This file is a simple code for using pythons basic command. This whole code is dictionary systme  which creates a .txt file which store the name and its meaning if its not stored already and if its already present it will show the meaning of the word you enter.
